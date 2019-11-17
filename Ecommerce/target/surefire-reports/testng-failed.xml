@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TestSuite]">
+  <test name="SmokeTest(failed)">
+    <classes>
+      <class name="TestCases.addProductToCart">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="logincheck"/>
+        </methods>
+      </class> <!-- TestCases.addProductToCart -->
+    </classes>
+  </test> <!-- SmokeTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

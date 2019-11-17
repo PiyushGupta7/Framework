@@ -1,0 +1,8 @@
+<suite name="TestSuite">
+ <test name="SmokeTest">
+ <classes>
+ <class name="TestCases.addProductToCart">
+ </class>
+ </classes>
+ </test>
+ </suite>
